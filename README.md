@@ -1,7 +1,7 @@
 # New-GitHub-Project
 Learning Git and GitHub 
 <br/>
-Author-M.Mahendar <br/>
+Author-G.Keerthi Mahender <br/>
 
 Designation:- Software Frontend Developer<br/>
 
